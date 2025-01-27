@@ -1,3 +1,3 @@
 # project 7
 
-Digital Clock
+Digital Clock.
